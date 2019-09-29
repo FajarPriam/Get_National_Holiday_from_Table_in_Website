@@ -1,0 +1,15 @@
+D:\GrapData\GrapData\bin\Debug\GrapData.exe.config
+D:\GrapData\GrapData\bin\Debug\GrapData.exe
+D:\GrapData\GrapData\bin\Debug\GrapData.pdb
+D:\GrapData\GrapData\bin\Debug\EntityFramework.dll
+D:\GrapData\GrapData\bin\Debug\EntityFramework.SqlServer.dll
+D:\GrapData\GrapData\bin\Debug\HtmlAgilityPack.dll
+D:\GrapData\GrapData\bin\Debug\EntityFramework.xml
+D:\GrapData\GrapData\bin\Debug\EntityFramework.SqlServer.xml
+D:\GrapData\GrapData\bin\Debug\HtmlAgilityPack.pdb
+D:\GrapData\GrapData\bin\Debug\HtmlAgilityPack.xml
+D:\GrapData\GrapData\obj\Debug\GrabDateHolidays.csprojResolveAssemblyReference.cache
+D:\GrapData\GrapData\obj\Debug\GrapData.Migrations.cd.resources
+D:\GrapData\GrapData\obj\Debug\GrabDateHolidays.csproj.GenerateResource.Cache
+D:\GrapData\GrapData\obj\Debug\GrapData.exe
+D:\GrapData\GrapData\obj\Debug\GrapData.pdb
